@@ -1,3 +1,5 @@
-# 23.1.21 ~ 1.23 tailwindcss practice1
+# React - Tailwindcss
 
-# 23.1.23 ~ 1.25tailwindcss practice2
+### 23.1.21 ~ 1.23 tailwindcss practice1
+
+### 23.1.23 ~ 1.25 tailwindcss practice2
