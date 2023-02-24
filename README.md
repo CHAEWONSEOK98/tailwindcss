@@ -9,3 +9,5 @@
 ### 23.1.31 ~ 2.3 tailwindcss practice4 - Food Order App
 
 ### 23.2.3 ~ tailwindcss + react-router practice - 삼성영어셀레나 header
+
+### 23.2.24 tailwindcss6: image-silder
